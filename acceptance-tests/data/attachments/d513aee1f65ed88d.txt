@@ -1,0 +1,373 @@
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 10, cb 0x7fd002a13b6a, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 13, cb 0x7fd002a13b1d, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 22, cb 0x7fd002a13ac1, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 11, cb 0x7fd002a13a82, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 21, cb 0x7fd002a13a21, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 16, cb 0x7fd002a13919, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 12, cb 0x7fd002a13604, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 23, cb 0x7fd002a135d4, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 4, cb 0x7fd002a129dc, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 2, cb 0x7fd002a133aa, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 6, cb 0x7fd002a13305, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 7, cb 0x7fd002a13278, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 5, cb 0x7fd002a13179, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 8, cb 0x7fd002a130a2, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1, cb 0x7fd002a1303b, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 3, cb 0x7fd002a1348d, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1001, cb 0x7fd002a1c89b, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1004, cb 0x7fd002a19d5b, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1006, cb 0x7fd002a1c84f, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1007, cb 0x7fd002a19e05, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1005, cb 0x7fd002a192f0, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1002, cb 0x7fd002a1c2b0, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1008, cb 0x7fd002a1c25a, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1011, cb 0x7fd002a19ccc, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1003, cb 0x7fd002a19d1e, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1009, cb 0x7fd002a1c1d9, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1013, cb 0x7fd002a1c19d, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1014, cb 0x7fd002a1935c, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1016, cb 0x7fd002a19c8f, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1010, cb 0x7fd002a1930b, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1015, cb 0x7fd002a19326, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1026, cb 0x7fd002a1c3e6, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1019, cb 0x7fd002a1a98c, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1022, cb 0x7fd002a1ac31, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1017, cb 0x7fd002a1ae99, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1023, cb 0x7fd002a1aeb3, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1018, cb 0x7fd002a1ac71, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1021, cb 0x7fd002a1aed0, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1020, cb 0x7fd002a19341, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1024, cb 0x7fd002a1c76c, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1025, cb 0x7fd002a1c751, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1052, cb 0x7fd002a1b753, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1055, cb 0x7fd002a1c557, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1059, cb 0x7fd002a1b833, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1056, cb 0x7fd002a1b8f0, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1071, cb 0x7fd002a1bb6a, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1067, cb 0x7fd002a1c5a2, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1068, cb 0x7fd002a1c698, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1069, cb 0x7fd002a1bcad, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1077, cb 0x7fd002a1c7d5, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1071, cb 0x7fd002a1bb6a, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1072, cb 0x7fd002a1bc38, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1070, cb 0x7fd002a1c787, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1095, cb 0x7fd002a192e6, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1118, cb 0x7fd002a21caf, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1119, cb 0x7fd002a1d7eb, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1083, cb 0x7fd002a1bfe7, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1112, cb 0x7fd002a21b4a, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1113, cb 0x7fd002a21a5a, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1114, cb 0x7fd002a21aca, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1111, cb 0x7fd002a216e1, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1117, cb 0x7fd002a21555, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1115, cb 0x7fd002a215fb, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [tlv.c:498] Registering command 1116, cb 0x7fd002a21666, arg 0x7d7040
+[12-06-2023 23:03:07.262s] [mettle.c:75] Heartbeat
+[12-06-2023 23:03:07.311s] [tlv.c:525] handler for 16: 0x7d9a40
+[12-06-2023 23:03:07.311s] [tlv.c:566] processing command: 16 id: '03780217356613593676261028036240'
+[12-06-2023 23:03:07.313s] [tlv.c:525] handler for 10: 0x7d95e0
+[12-06-2023 23:03:07.313s] [tlv.c:566] processing command: 10 id: '59034097993390119124327879994272'
+[12-06-2023 23:03:07.314s] [tlv.c:525] handler for 10: 0x7d95e0
+[12-06-2023 23:03:07.314s] [tlv.c:566] processing command: 10 id: '05246466655471930498993121844648'
+[12-06-2023 23:03:07.324s] [tlv.c:525] handler for 1008: 0x7da0a0
+[12-06-2023 23:03:07.324s] [tlv.c:566] processing command: 1008 id: '36235717457758808360187883149550'
+[12-06-2023 23:03:07.325s] [tlv.c:525] handler for 1055: 0x7dae80
+[12-06-2023 23:03:07.325s] [tlv.c:566] processing command: 1055 id: '20268705705352892964465009951599'
+[12-06-2023 23:03:07.326s] [tlv.c:525] handler for 1059: 0x7daee0
+[12-06-2023 23:03:07.326s] [tlv.c:566] processing command: 1059 id: '61271725975435868364052788388671'
+[12-06-2023 23:03:07.327s] [tlv.c:525] handler for 1019: 0x7daac0
+[12-06-2023 23:03:07.327s] [tlv.c:566] processing command: 1019 id: '45962544480424338473209828031174'
+[12-06-2023 23:03:07.327s] [stdapi/net/config.c:46] lo: 127.0.0.1/8
+[12-06-2023 23:03:07.327s] [stdapi/net/config.c:46] lo: ::1
+[12-06-2023 23:03:07.327s] [stdapi/net/config.c:46] eth0: 10.1.0.5/16
+[12-06-2023 23:03:07.327s] [stdapi/net/config.c:46] eth0: fe80::222:48ff:fe2d:4358/64
+[12-06-2023 23:03:07.327s] [stdapi/net/config.c:46] docker0: 172.17.0.1/16
+[12-06-2023 23:03:07.329s] [tlv.c:525] handler for 1022: 0x7dab20
+[12-06-2023 23:03:07.329s] [tlv.c:566] processing command: 1022 id: '86871205960986565723304048218524'
+[12-06-2023 23:03:07.537s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:07.537s] [tlv.c:566] processing command: 1069 id: '93736966931070788095576442252304'
+[12-06-2023 23:03:07.537s] [stdapi/sys/process.c:339] process_new: echo 'JrrS'  0x00000043
+[12-06-2023 23:03:07.537s] [process.c:427] child pid 3314 started
+[12-06-2023 23:03:07.537s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:07.537s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:07.537s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:07.537s] [process.c:285] child pid 3314 exited status 0
+[12-06-2023 23:03:07.537s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:07.537s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:07.538s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:07.538s] [tlv.c:566] processing command: 5 id: '23972125201688011921812847809416'
+[12-06-2023 23:03:07.538s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:07.539s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:07.539s] [tlv.c:566] processing command: 5 id: '29337432562684048315401918588936'
+[12-06-2023 23:03:07.940s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:07.940s] [tlv.c:566] processing command: 1068 id: '44767264169824110728549434197266'
+[12-06-2023 23:03:07.941s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:07.941s] [tlv.c:566] processing command: 1069 id: '69039358623754976676174694927890'
+[12-06-2023 23:03:07.941s] [stdapi/sys/process.c:339] process_new: echo "CNpX"  0x00000043
+[12-06-2023 23:03:07.941s] [process.c:427] child pid 3315 started
+[12-06-2023 23:03:07.941s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:07.941s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:07.941s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:07.941s] [process.c:285] child pid 3315 exited status 0
+[12-06-2023 23:03:07.941s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:07.942s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:08.042s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:08.042s] [tlv.c:566] processing command: 5 id: '22211653830596771355371644281746'
+[12-06-2023 23:03:08.042s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:08.142s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:08.142s] [tlv.c:566] processing command: 5 id: '99001283560890935123331603655850'
+[12-06-2023 23:03:08.444s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:08.444s] [tlv.c:566] processing command: 1068 id: '96134261302587549951178745692311'
+[12-06-2023 23:03:08.445s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:08.445s] [tlv.c:566] processing command: 1069 id: '25261695971328835360035650877043'
+[12-06-2023 23:03:08.445s] [stdapi/sys/process.c:339] process_new: echo OMPF 1>&2  0x00000043
+[12-06-2023 23:03:08.445s] [process.c:427] child pid 3316 started
+[12-06-2023 23:03:08.445s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:08.446s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:08.446s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:08.446s] [process.c:285] child pid 3316 exited status 0
+[12-06-2023 23:03:08.446s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:08.446s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:08.545s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:08.545s] [tlv.c:566] processing command: 5 id: '49733369966208334480152594344964'
+[12-06-2023 23:03:08.545s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:08.646s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:08.646s] [tlv.c:566] processing command: 5 id: '56696042405680450497072854927888'
+[12-06-2023 23:03:08.948s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:08.948s] [tlv.c:566] processing command: 1068 id: '00422038574498787031025848658035'
+[12-06-2023 23:03:08.949s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:08.949s] [tlv.c:566] processing command: 1069 id: '46828234172095541780517920444965'
+[12-06-2023 23:03:08.949s] [stdapi/sys/process.c:339] process_new: echo SMbT  0x00000043
+[12-06-2023 23:03:08.950s] [process.c:427] child pid 3317 started
+[12-06-2023 23:03:08.950s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:08.950s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:08.950s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:08.950s] [process.c:285] child pid 3317 exited status 0
+[12-06-2023 23:03:08.950s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:08.950s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:09.051s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:09.051s] [tlv.c:566] processing command: 5 id: '59972463255931265311233489991807'
+[12-06-2023 23:03:09.051s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:09.151s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:09.151s] [tlv.c:566] processing command: 5 id: '15344022970433162651331530192076'
+[12-06-2023 23:03:09.453s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:09.453s] [tlv.c:566] processing command: 1068 id: '77227618139320131325203490100167'
+[12-06-2023 23:03:09.454s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:09.454s] [tlv.c:566] processing command: 1069 id: '97573296946723756320870389627450'
+[12-06-2023 23:03:09.454s] [stdapi/sys/process.c:339] process_new: sleep 1; echo QxCV  0x00000043
+[12-06-2023 23:03:09.454s] [process.c:427] child pid 3318 started
+[12-06-2023 23:03:09.454s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:09.556s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:09.556s] [tlv.c:566] processing command: 5 id: '31338363455109356990781917904665'
+[12-06-2023 23:03:09.857s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:09.857s] [tlv.c:566] processing command: 5 id: '23858060964427563828663761210281'
+[12-06-2023 23:03:10.160s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:10.160s] [tlv.c:566] processing command: 5 id: '36444027065299276783831535743599'
+[12-06-2023 23:03:10.456s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:10.456s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:10.456s] [process.c:285] child pid 3318 exited status 0
+[12-06-2023 23:03:10.456s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:10.456s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:10.462s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:10.462s] [tlv.c:566] processing command: 5 id: '36764036116332614588894207561794'
+[12-06-2023 23:03:10.462s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:10.564s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:10.564s] [tlv.c:566] processing command: 5 id: '11273061272399182745992718149370'
+[12-06-2023 23:03:10.960s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:10.960s] [tlv.c:566] processing command: 1068 id: '16665951428485336928080886023512'
+[12-06-2023 23:03:10.962s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:10.962s] [tlv.c:566] processing command: 1069 id: '20809750140284396208883511873239'
+[12-06-2023 23:03:10.962s] [stdapi/sys/process.c:339] process_new: echo kRcb; sleep 1; echo TjsG  0x00000043
+[12-06-2023 23:03:10.962s] [process.c:427] child pid 3320 started
+[12-06-2023 23:03:10.962s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:11.064s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:11.064s] [tlv.c:566] processing command: 5 id: '60478309051694678280557862609318'
+[12-06-2023 23:03:11.064s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:11.165s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:11.165s] [tlv.c:566] processing command: 5 id: '08091630450380608960678866966261'
+[12-06-2023 23:03:11.467s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:11.467s] [tlv.c:566] processing command: 5 id: '65014321994307748643173332590337'
+[12-06-2023 23:03:11.669s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:11.669s] [tlv.c:566] processing command: 5 id: '36823380774889869574988670058918'
+[12-06-2023 23:03:11.963s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:11.963s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:11.963s] [process.c:285] child pid 3320 exited status 0
+[12-06-2023 23:03:11.963s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:11.963s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:11.972s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:11.972s] [tlv.c:566] processing command: 5 id: '12622091519934663581771641314890'
+[12-06-2023 23:03:11.972s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:11.974s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:11.974s] [tlv.c:566] processing command: 5 id: '07120229055005964476157471406127'
+[12-06-2023 23:03:12.262s] [mettle.c:75] Heartbeat
+[12-06-2023 23:03:12.275s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:12.275s] [tlv.c:566] processing command: 1068 id: '61459920773346713967190630804970'
+[12-06-2023 23:03:12.276s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:12.276s] [tlv.c:566] processing command: 1069 id: '26690731576542403747020256642980'
+[12-06-2023 23:03:12.276s] [stdapi/sys/process.c:339] process_new: echo TRvI  0x00000043
+[12-06-2023 23:03:12.276s] [process.c:427] child pid 3322 started
+[12-06-2023 23:03:12.276s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:12.277s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:12.277s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:12.277s] [process.c:285] child pid 3322 exited status 0
+[12-06-2023 23:03:12.277s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:12.277s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:12.370s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:12.370s] [tlv.c:566] processing command: 5 id: '07956511877425195858956861436955'
+[12-06-2023 23:03:12.370s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:12.470s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:12.470s] [tlv.c:566] processing command: 5 id: '03105177539320170549997658439369'
+[12-06-2023 23:03:12.773s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:12.773s] [tlv.c:566] processing command: 1068 id: '76909190609520330907457262298352'
+[12-06-2023 23:03:12.775s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:12.775s] [tlv.c:566] processing command: 1069 id: '36777660326620254585313573477499'
+[12-06-2023 23:03:12.775s] [stdapi/sys/process.c:339] process_new: echo aavW  0x00000043
+[12-06-2023 23:03:12.775s] [process.c:427] child pid 3324 started
+[12-06-2023 23:03:12.775s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:12.775s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:12.775s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:12.775s] [process.c:285] child pid 3324 exited status 0
+[12-06-2023 23:03:12.775s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:12.775s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:12.877s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:12.877s] [tlv.c:566] processing command: 5 id: '82321184697932570693731928947658'
+[12-06-2023 23:03:12.877s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:12.977s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:12.977s] [tlv.c:566] processing command: 5 id: '11664338656872417758173509321865'
+[12-06-2023 23:03:13.280s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:13.280s] [tlv.c:566] processing command: 1068 id: '69679910430246167185917103467424'
+[12-06-2023 23:03:13.280s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:13.280s] [tlv.c:566] processing command: 1069 id: '21353385357341303082662173723956'
+[12-06-2023 23:03:13.281s] [stdapi/sys/process.c:339] process_new: echo ShBo  0x00000043
+[12-06-2023 23:03:13.281s] [process.c:427] child pid 3325 started
+[12-06-2023 23:03:13.281s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:13.281s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:13.281s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:13.281s] [process.c:285] child pid 3325 exited status 0
+[12-06-2023 23:03:13.281s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:13.281s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:13.284s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:13.285s] [tlv.c:566] processing command: 5 id: '26256090047607112380855776461656'
+[12-06-2023 23:03:13.285s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:13.386s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:13.386s] [tlv.c:566] processing command: 5 id: '58122078533643629856740631588864'
+[12-06-2023 23:03:13.688s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:13.688s] [tlv.c:566] processing command: 1068 id: '63076882963278331275518185667997'
+[12-06-2023 23:03:13.689s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:13.689s] [tlv.c:566] processing command: 1069 id: '82509289943132546955507209187009'
+[12-06-2023 23:03:13.689s] [stdapi/sys/process.c:339] process_new: echo YXUh  0x00000043
+[12-06-2023 23:03:13.689s] [process.c:427] child pid 3326 started
+[12-06-2023 23:03:13.689s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:13.689s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:13.689s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:13.689s] [process.c:285] child pid 3326 exited status 0
+[12-06-2023 23:03:13.689s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:13.689s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:13.693s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:13.693s] [tlv.c:566] processing command: 5 id: '29885850554665152896101833466154'
+[12-06-2023 23:03:13.693s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:13.794s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:13.794s] [tlv.c:566] processing command: 5 id: '69354106896957112709690890300722'
+[12-06-2023 23:03:14.097s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:14.097s] [tlv.c:566] processing command: 1068 id: '01831918080948870145678427448295'
+[12-06-2023 23:03:14.097s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:14.097s] [tlv.c:566] processing command: 1069 id: '31757666367011945948171339781437'
+[12-06-2023 23:03:14.097s] [stdapi/sys/process.c:339] process_new: echo qWAx  0x00000043
+[12-06-2023 23:03:14.098s] [process.c:427] child pid 3327 started
+[12-06-2023 23:03:14.098s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:14.098s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:14.098s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:14.098s] [process.c:285] child pid 3327 exited status 0
+[12-06-2023 23:03:14.098s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:14.098s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:14.102s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:14.102s] [tlv.c:566] processing command: 5 id: '01521929414991244357285737085462'
+[12-06-2023 23:03:14.102s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:14.203s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:14.203s] [tlv.c:566] processing command: 5 id: '07014432057857079894879152349271'
+[12-06-2023 23:03:14.505s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:14.505s] [tlv.c:566] processing command: 1068 id: '08725002556764505728625451332164'
+[12-06-2023 23:03:14.506s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:14.506s] [tlv.c:566] processing command: 1069 id: '40388141956935299713676973732324'
+[12-06-2023 23:03:14.506s] [stdapi/sys/process.c:339] process_new: echo ofsh  0x00000043
+[12-06-2023 23:03:14.506s] [process.c:427] child pid 3328 started
+[12-06-2023 23:03:14.506s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:14.507s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[12-06-2023 23:03:14.507s] [process.c:285] child pid 3328 exited status 0
+[12-06-2023 23:03:14.507s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:14.507s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:14.510s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:14.510s] [tlv.c:566] processing command: 5 id: '25059628128518810966894283116483'
+[12-06-2023 23:03:14.510s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:14.612s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:14.612s] [tlv.c:566] processing command: 5 id: '26159194795033753101100960367659'
+[12-06-2023 23:03:14.914s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:14.914s] [tlv.c:566] processing command: 1068 id: '20621543555464669215723738935054'
+[12-06-2023 23:03:14.915s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:14.915s] [tlv.c:566] processing command: 1069 id: '01268163765328412441970503125157'
+[12-06-2023 23:03:14.915s] [stdapi/sys/process.c:339] process_new: echo Rnzp  0x00000043
+[12-06-2023 23:03:14.915s] [process.c:427] child pid 3330 started
+[12-06-2023 23:03:14.915s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:14.915s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:14.915s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:14.915s] [process.c:285] child pid 3330 exited status 0
+[12-06-2023 23:03:14.915s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:14.915s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:14.919s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:14.919s] [tlv.c:566] processing command: 5 id: '31439520255187081897381679904661'
+[12-06-2023 23:03:14.919s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:15.020s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:15.020s] [tlv.c:566] processing command: 5 id: '52430130355945445709556732774735'
+[12-06-2023 23:03:15.322s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:15.322s] [tlv.c:566] processing command: 1068 id: '45145845537310344425611423253613'
+[12-06-2023 23:03:15.323s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:15.323s] [tlv.c:566] processing command: 1069 id: '94294696456895422405350423520059'
+[12-06-2023 23:03:15.323s] [stdapi/sys/process.c:339] process_new: echo Qyza  0x00000043
+[12-06-2023 23:03:15.323s] [process.c:427] child pid 3331 started
+[12-06-2023 23:03:15.323s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:15.323s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:15.323s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:15.323s] [process.c:285] child pid 3331 exited status 0
+[12-06-2023 23:03:15.323s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:15.323s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:15.327s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:15.327s] [tlv.c:566] processing command: 5 id: '15291640704373027443727741032119'
+[12-06-2023 23:03:15.327s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:15.428s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:15.428s] [tlv.c:566] processing command: 5 id: '85297512749450083887079513757750'
+[12-06-2023 23:03:15.732s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:15.732s] [tlv.c:566] processing command: 1068 id: '61622570061564039453338615078539'
+[12-06-2023 23:03:15.733s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:15.733s] [tlv.c:566] processing command: 1069 id: '82565770988210791826310755687664'
+[12-06-2023 23:03:15.733s] [stdapi/sys/process.c:339] process_new: echo Uqsn  0x00000043
+[12-06-2023 23:03:15.733s] [process.c:427] child pid 3332 started
+[12-06-2023 23:03:15.733s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:15.734s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:15.734s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:15.734s] [process.c:285] child pid 3332 exited status 0
+[12-06-2023 23:03:15.734s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:15.734s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:15.738s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:15.739s] [tlv.c:566] processing command: 5 id: '71537304835321948828148887545812'
+[12-06-2023 23:03:15.739s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:15.840s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:15.840s] [tlv.c:566] processing command: 5 id: '45876764313858092578213426910132'
+[12-06-2023 23:03:16.142s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:16.142s] [tlv.c:566] processing command: 1068 id: '56609537475605927864197347727056'
+[12-06-2023 23:03:16.142s] [tlv.c:525] handler for 1069: 0x7db0c0
+[12-06-2023 23:03:16.142s] [tlv.c:566] processing command: 1069 id: '66138404827969276678834284942087'
+[12-06-2023 23:03:16.142s] [stdapi/sys/process.c:339] process_new: echo HzUH  0x00000043
+[12-06-2023 23:03:16.143s] [process.c:427] child pid 3334 started
+[12-06-2023 23:03:16.143s] [process.c:462] IO started on fds 10 6
+[12-06-2023 23:03:16.143s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[12-06-2023 23:03:16.143s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:16.143s] [process.c:285] child pid 3334 exited status 0
+[12-06-2023 23:03:16.143s] [process.c:274] nothing on fd 10: Invalid argument
+[12-06-2023 23:03:16.143s] [process.c:274] nothing on fd 6: Invalid argument
+[12-06-2023 23:03:16.148s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:16.148s] [tlv.c:566] processing command: 5 id: '51541104909238252331729782250464'
+[12-06-2023 23:03:16.148s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[12-06-2023 23:03:16.249s] [tlv.c:525] handler for 5: 0x7d9ce0
+[12-06-2023 23:03:16.249s] [tlv.c:566] processing command: 5 id: '26723624540104287655873552075268'
+[12-06-2023 23:03:16.551s] [tlv.c:525] handler for 1068: 0x7db060
+[12-06-2023 23:03:16.551s] [tlv.c:566] processing command: 1068 id: '53147084661521360023447741772545'

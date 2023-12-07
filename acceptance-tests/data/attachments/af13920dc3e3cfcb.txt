@@ -1,0 +1,97 @@
+[*] running method core_negotiate_tlv_encryption
+[*] Negotiating TLV encryption
+[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100e055b327104bad0e7dc8e5ae6e1afa2c833bf0bcbcb274245f4bce4d6f9953fc31b896a67bc344f4b336b83f42391a47d0ec6a83b844eeb5f6de45f4e5f3e9ea753dcbd8d671b822605f58cb23c6e2d518f9cc1c5417a8e4e4f69f2773ec264e4f4f741dfa768d7c950167ccf4103d3481d32c74c8f5f73fbfd4240e2043d9701a2ddf06473cb6151a783f6c8a8979ceb7786cf3f227377cc40244e7b5bfa855cf7c7ef186cc8240449c108130b0e97c7ff04f6fb49238c75e484813de681b42a1857d9cc62ac44f3acfb600fcc2ec82da3707997f7d1d4b7c2d7c443f5f4dfa53754945ac26ad3073bc795624f747a63a249889ccbf44cbc62547f88f4002c10203010001
+[*] AES key: 0x50bda4ed7680d7a3af42bcec9493147771bae2f4f4b724201c9afff1a9727c0b
+[*] Encrypted AES key: 0xa73f4d723b1454a0999d240c0998dd7ad200148c5ab37637584d88df93838d5fd36eea5d4c1cac2ec0f2609abc95ceeda1b67b568550d44854cd9a5e5fa75069d9b82ecd72e7b898ff765d5b480510f35b46a332b06907cfb282c19fe57ce81c8ab3e33827c82b0d60ede801fd17a70c7039c56380b83c62e107f5f36dae968852f83158e7aca7a37adcd3416a9f7269685d3e467ef8b2e3f91c3d83544df8fe11120a446a93159d8dc06256248bc886f86f093a7704487816fbd36d6948ea4ca03c1c1304bae554b4f9c8f972ddf743cd06ec18feec021beace3a7549aeb930f9274046abf4963c8fa3557a96f27d5eb4e224bb01aeee3f72f7a47fec113ebf
+[*] TLV encryption sorted
+[*] sending response packet
+[*] running method core_set_session_guid
+[*] sending response packet
+[*] running method core_enumextcmd
+[*] sending response packet
+[*] running method core_enumextcmd
+[*] sending response packet
+[*] running method core_loadlib
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_sys_config_getuid
+[*] sending response packet
+[*] running method stdapi_sys_config_sysinfo
+[*] sending response packet
+[*] running method core_set_uuid
+[*] sending response packet
+[*] running method stdapi_net_config_get_interfaces
+[*] sending response packet
+[*] running method stdapi_net_config_get_routes
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_sys_config_getenv
+[*] sending response packet
+[*] running method stdapi_fs_stat
+[*] sending response packet
+[*] running method stdapi_fs_file_expand_path
+[*] sending response packet
+[*] running method stdapi_fs_chdir
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_fs_stat
+[-] method stdapi_fs_stat resulted in an error
+Traceback (most recent call last):
+  File "<string>", line 1717, in create_response
+  File "ext_server_stdapi.py", line 2084, in stdapi_fs_stat
+  File "ext_server_stdapi.py", line 891, in get_stat_buffer
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'meterpreter-test-dir-hprntfjs'
+
+[*] sending response packet
+[*] running method stdapi_fs_mkdir
+[*] sending response packet
+[*] running method stdapi_fs_file_expand_path
+[*] sending response packet
+[*] running method stdapi_fs_chdir
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_fs_delete_file
+[-] method stdapi_fs_delete_file resulted in error: #1
+[*] sending response packet
+[*] running method core_channel_open
+[*] core_channel_open dispatching to handler: channel_open_stdapi_fs_file
+[*] added channel id: 1 type: MeterpreterFile
+[*] sending response packet
+[*] running method core_channel_close
+[*] closed and removed channel id: 1
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_fs_separator
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_search
+[*] sending response packet
+[*] running method stdapi_fs_file_expand_path
+[*] sending response packet
+[*] running method stdapi_fs_chdir
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_fs_delete_file
+[-] method stdapi_fs_delete_file resulted in error: #1
+[*] sending response packet

